@@ -1,0 +1,1 @@
+document.getElementById("one").style.backgroundColor = "green";
